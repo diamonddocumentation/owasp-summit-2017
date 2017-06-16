@@ -12,11 +12,11 @@ organizers   : Mustafa Kasmani
 participants : Francois Raynaud,Robert Morschel,Robert Hurlbut
 ---
 
-Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
+Security Champions are a key element of any AppSec team since they create a cross-functional team focused on Application Security.
 
 What is a Security Champion?
 
-- Security Champions are active members of a team that may help to make decisions about when to engage the Security Team
+- Security Champions are active members of a team that may influence decisions about Security Team engagement 
 - Security Champions act as the "voice" of security for the given product or team
 - Security Champions assist in the triage of security bugs for their team or area
 
